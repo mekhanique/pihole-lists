@@ -1,8 +1,8 @@
 # Title: mekhanique's DNS Blocklist for Pi-hole
-# Version: 4Sep2023v1
+# Version: 4Sep2023v2
 
 #
-# Regex
+# Porn Regex
 #
 
 *booru*
@@ -67,7 +67,9 @@
 *shemale*
 *transvestite*
 *tranny*
+*trans*
 *masturbate*
+
 
 
 
@@ -136,8 +138,16 @@
 *kompoz*
 *noisypixel*
 *newgrounds*
-
-
+*foryou*
+*forhim*
+*beegnow*
+*forwomen*
+*bangumi*
+*redtube*
+*hitomila*
+*blogspot*
+*bimbo*
+*ditz*
 
 
 
@@ -146,11 +156,16 @@
 #
 (\.|^)fpo*\.*$
 (\.|^)videos*\$
-*(\.|^)soy\$
-*\.bj\$
-*\.lov\$
-*\.love\$
-*\.sex\$
+*(\.|^)boy$
+*(\.|^)girl$
+*(\.|^)teen$
+*(\.|^)slut$
+*(\.|^)child$
+*(\.|^)adult$
+*(\.|^).bj$
+*(\.|^).lov$
+*(\.|^).love$
+*(\.|^).sex$
 (\.|^)gag$
 (\.|^)prn$
 (\.|^)pron$
@@ -160,64 +175,40 @@
 (\.|^)hentai$
 (\.|^)porn$
 (\.|^)xxx$
-(\.|^)*booru*\$
-(\.|^)hentai\$
-(\.|^)*ass*\$
-(\.|^)soy\$
-(\.|^)*beegnow*\$
-(\.|^)*blow*\$
-(\.|^)*tits*\$
-(\.|^)*xxx*\$
-(\.|^)*porn*\$
-(\.|^)*pron*\$
-(\.|^)*prn*\$
-(\.|^)*tube*\$
-(\.|^)*gag*\$
-(\.|^)*turbate*\$
-(\.|^)pussy*\$
-(\.|^)furry*\$
-(\.|^)furaffinity*\$
-(\.|^)cock*\$
-(\.|^)bang*\$
-(\.|^)gangbang*\$
-(\.|^)shemale*\$
-(\.|^)bangumi\$
-(\.|^)buhitter*\$
-(\.|^)buihitter*\$
-(\.|^)lov\$
-(\.|^)love\$
-(\.|^)sex\$
-(\.|^)*redtube*\$
-(\.|^)xhamster*\$
-(\.|^)videos*\$
-(\.|^)xanim*\$
-(\.|^)xgroov*\$
-(\.|^)wholesome*\$
-(\.|^)wattpad*\$
-(\.|^)twoucan*\$
-(\.|^)tumgik*\$
-(\.|^)trahkino*\$
-(\.|^)*shooshtime*\$
-(\.|^)*bj*\$
-(\.|^)*comix*\$
-(\.|^)*inkbunny*\$
-(\.|^)joyreactor*\$
-(\.|^)*knnx*\$
-(\.|^)*nxx*\$
-(\.|^)*kompoz*\$
-(\.|^)*joi-database*\$
-(\.|^)*vid*\$
-(\.|^)*tiava*\$
-(\.|^)tnaflix*\$
-(\.|^)hitomila*\$
-(\.|^)browser*\$
+(\.|^)*booru$
+(\.|^)hentai$
+(\.|^)ass$
+(\.|^)soy$
+(\.|^)*beegnow$
+(\.|^)blow$
+(\.|^)tits$
+(\.|^)xxx$
+(\.|^)porn$
+(\.|^)pron$
+(\.|^)prn$
+(\.|^)tube$
+(\.|^)gag$
+(\.|^)turbate$
+(\.|^)pussy$
+(\.|^)furry$
+(\.|^)furaffinity$
+(\.|^)cock$
+(\.|^)bang$
+(\.|^)gangbang$
+(\.|^)shemale$
+(\.|^)vid$
+(\.|^)flix$
+(\.|^)video$
+(\.|^)videos$
+(\.|^)movie$
+(\.|^)tnaflix$
+(\.|^)*tiava*$
+(\.|^)browser*$
 
 
-
-
-
-
+#
 # Domains
+#
 bgm.tv
 baugutachter-sueddeutschland.de
 *heavy-d*
@@ -232,10 +223,38 @@ fpo.*
 erome.*
 fuq*.*
 hitomila.*
-
 majinai.art
 kuozenzen.github.io
 t.com
+forum.buhsoft.ru$
+forum.d99q.cn$
+forum.dolcettgirls.com$
+forum.icsa-life.ru$
+forum.like108.com$
+forum.mdb.nu$
+forum.mediaok.info$
+forum.pictaram.com$
+forum.pinkertonroad.com$
+forum.sherrihill.net$
+forum.shib.net$
+forum.somedizzy.com$
+forum.square-enix.com-yb.xyz$
+forum.squareenix.com-ni.ru$
+forum.ter-a.com$
+forum.touteslesbieres.fr$
+forum.uzdarakchi.com$
+forum38.com$
+forum69.org$
+forumasik.com$
+forumbeeirritating.com$
+forumbolaindonesia.com$
+forumbondage.com$
+forumceza.tr.gg$
+forumclixxx.files.ie$
+forumcontributif.fr$
+forumdediscussion.com$
+forumdelhumour.com$
+
 
 
 #
